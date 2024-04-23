@@ -1,0 +1,150 @@
+D:\Практика\Practic\bin\Debug\DB.mdf
+D:\Практика\Practic\bin\Debug\DB_log.ldf
+D:\Практика\Practic\bin\Debug\Practic.exe.config
+D:\Практика\Practic\bin\Debug\Practic.exe
+D:\Практика\Practic\bin\Debug\Practic.pdb
+D:\Практика\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+D:\Практика\Practic\obj\Debug\MainWindow.g.cs
+D:\Практика\Practic\obj\Debug\App.g.cs
+D:\Практика\Practic\obj\Debug\Practic_Content.g.cs
+D:\Практика\Practic\obj\Debug\Practic_MarkupCompile.cache
+D:\Практика\Practic\obj\Debug\Practic_MarkupCompile.lref
+D:\Практика\Practic\obj\Debug\MainWindow.baml
+D:\Практика\Practic\obj\Debug\Practic.g.resources
+D:\Практика\Practic\obj\Debug\Practic.Properties.Resources.resources
+D:\Практика\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+D:\Практика\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+D:\Практика\Practic\obj\Debug\Practic.exe
+D:\Практика\Practic\obj\Debug\Practic.pdb
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+D:\Практика\Новая папка\Practic\obj\Debug\App.g.cs
+D:\Практика\Новая папка\Practic\obj\Debug\Practic_Content.g.cs
+D:\Практика\Новая папка\Practic\obj\Debug\Practic_MarkupCompile.cache
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.exe
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.pdb
+D:\Практика\Новая папка\Practic\bin\Debug\DB.mdf
+D:\Практика\Новая папка\Practic\bin\Debug\DB_log.ldf
+D:\Практика\Новая папка\Practic\bin\Debug\Practic.exe.config
+D:\Практика\Новая папка\Practic\bin\Debug\Practic.exe
+D:\Практика\Новая папка\Practic\bin\Debug\Practic.pdb
+D:\Практика\Новая папка\Practic\obj\Debug\Practic_MarkupCompile.lref
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.g.resources
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.Properties.Resources.resources
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+D:\Практика\Новая папка\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Pages\Main_page.g.cs
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Windows\Log.g.cs
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Windows\Main.g.cs
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Windows\Reg.g.cs
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Pages\Main_page.baml
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Windows\Log.baml
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Windows\Main.baml
+D:\Практика\Новая папка\Practic\obj\Debug\Models\Windows\Reg.baml
+C:\Практика\Код\Версия 2\Practic\bin\Debug\DB.mdf
+C:\Практика\Код\Версия 2\Practic\bin\Debug\DB_log.ldf
+C:\Практика\Код\Версия 2\Practic\bin\Debug\Practic.exe.config
+C:\Практика\Код\Версия 2\Practic\bin\Debug\Practic.exe
+C:\Практика\Код\Версия 2\Practic\bin\Debug\Practic.pdb
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.csproj.SuggestedBindingRedirects.cache
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Pages\Main_page.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Windows\Log.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Windows\Main.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Windows\Reg.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\App.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic_Content.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic_MarkupCompile.cache
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic_MarkupCompile.lref
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Pages\Main_page.baml
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Windows\Log.baml
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Windows\Main.baml
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Windows\Reg.baml
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.g.resources
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.Properties.Resources.resources
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.exe
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Practic.pdb
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Pages\Test.g.cs
+C:\Практика\Код\Версия 2\Practic\obj\Debug\Models\Pages\Test.baml
+D:\Практика\Версия 3\Practic\bin\Debug\DB.mdf
+D:\Практика\Версия 3\Practic\bin\Debug\DB_log.ldf
+D:\Практика\Версия 3\Practic\bin\Debug\Practic.exe.config
+D:\Практика\Версия 3\Practic\bin\Debug\Practic.exe
+D:\Практика\Версия 3\Practic\bin\Debug\Practic.pdb
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Main_page.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Test.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\Log.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\Main.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\Reg.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\App.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Practic_Content.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Practic_MarkupCompile.cache
+D:\Практика\Версия 3\Practic\obj\Debug\Practic_MarkupCompile.lref
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Main_page.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Test.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\Log.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\Main.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\Reg.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.g.resources
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.Properties.Resources.resources
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.exe
+D:\Практика\Версия 3\Practic\obj\Debug\Practic.pdb
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\AddGame.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\AddGame.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\EditGame.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\EditGame.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\DeleteGame.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\DeleteGame.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Category.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Category.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\AddCategory.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\AddCategory.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\EditCategory.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Windows\EditCategory.baml
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Library.g.cs
+D:\Практика\Версия 3\Practic\obj\Debug\Models\Pages\Library.baml
+C:\Практика\Код\Версия 5\Practic\bin\Debug\DB.mdf
+C:\Практика\Код\Версия 5\Practic\bin\Debug\DB_log.ldf
+C:\Практика\Код\Версия 5\Practic\bin\Debug\Practic.exe.config
+C:\Практика\Код\Версия 5\Practic\bin\Debug\Practic.exe
+C:\Практика\Код\Версия 5\Practic\bin\Debug\Practic.pdb
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.csproj.AssemblyReference.cache
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.csproj.SuggestedBindingRedirects.cache
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Category.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Library.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Main_page.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Test.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\AddCategory.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\AddGame.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\DeleteGame.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\EditCategory.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\EditGame.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\Log.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\Main.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\Reg.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\App.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic_Content.g.cs
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic_MarkupCompile.cache
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic_MarkupCompile.lref
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Category.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Library.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Main_page.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Pages\Test.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\AddCategory.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\AddGame.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\DeleteGame.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\EditCategory.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\EditGame.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\Log.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\Main.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Models\Windows\Reg.baml
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.g.resources
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.Properties.Resources.resources
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.csproj.GenerateResource.cache
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.exe
+C:\Практика\Код\Версия 5\Practic\obj\Debug\Practic.pdb
